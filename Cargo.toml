@@ -1,10 +1,10 @@
 [package]
 name = "cargo-factorio"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2024"
 description = "Cargo subcommand to zip and install Factorio mods (correct structure, cross-platform)."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/yourname/cargo-factorio"
+repository = "https://github.com/nayumii/cargo-factorio"
 readme = "README.md"
 categories = ["command-line-utilities", "development-tools"]
 keywords = ["cargo-subcommand", "factorio", "modding", "zip"]
